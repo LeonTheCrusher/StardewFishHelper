@@ -1,0 +1,1461 @@
+[
+    {
+        "name": "Albacore",
+        "desc": "Prefers temperature 'edges' where cool and warm water meet.",
+        "base_price": 75,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                11
+            ],
+            [
+                18,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 20,
+            "max": 41
+        },
+        "behavior": "Mixed",
+        "difficulty": 60,
+        "base_xp": 23,
+        "uses": [
+            "'Fish Stew' Quest"
+        ]
+    },
+    {
+        "name": "Anchovy",
+        "desc": "A small silver fish found in the ocean.",
+        "base_price": 30,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Fall"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 1,
+            "max": 17
+        },
+        "behavior": "Dart",
+        "difficulty": 30,
+        "base_xp": 13,
+        "uses": []
+    },
+    {
+        "name": "Blue Discus",
+        "desc": "A brightly colored tropical fish that is popular in aquariums.",
+        "base_price": 120,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 2,
+            "max": 10
+        },
+        "behavior": "Dart",
+        "difficulty": 60,
+        "base_xp": 23,
+        "uses": []
+    },
+    {
+        "name": "Bream",
+        "desc": "A fairly common river fish that becomes active at night.",
+        "base_price": 45,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                18,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 31
+        },
+        "behavior": "Smooth",
+        "difficulty": 35,
+        "base_xp": 14,
+        "uses": [
+            "Night Fishing Bundle",
+            "Baked Fish"
+        ]
+    },
+    {
+        "name": "Bullhead",
+        "desc": "A relative of the catfish that eats a variety of foods off the lake bottom.",
+        "base_price": 75,
+        "location": [
+            "Lake"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 31
+        },
+        "behavior": "Smooth",
+        "difficulty": 46,
+        "base_xp": 18,
+        "uses": [
+            "Lake Fish Bundle"
+        ]
+    },
+    {
+        "name": "Carp",
+        "desc": "A common pond fish.",
+        "base_price": 30,
+        "location": [
+            "Pond"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 15,
+            "max": 51
+        },
+        "behavior": "Mixed",
+        "difficulty": 15,
+        "base_xp": 8,
+        "uses": [
+            "Lake Fish Bundle",
+            "Carp Surprise"
+        ]
+    },
+    {
+        "name": "Catfish",
+        "desc": "An uncommon fish found in streams.",
+        "base_price": 200,
+        "location": [
+            "Stream"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Rain",
+        "size": {
+            "min": 12,
+            "max": 73
+        },
+        "behavior": "Mixed",
+        "difficulty": 75,
+        "base_xp": 28,
+        "uses": [
+            "River Fish Bundle",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "name": "Chub",
+        "desc": "A common freshwater fish known for its voracious appetite.",
+        "base_price": 50,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 73
+        },
+        "behavior": "Dart",
+        "difficulty": 35,
+        "base_xp": 14,
+        "uses": [
+            "Field Research Bundle"
+        ]
+    },
+    {
+        "name": "Dorado",
+        "desc": "",
+        "base_price": 100,
+        "location": [
+            "Forest"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 25
+        },
+        "behavior": "Mixed",
+        "difficulty": 78,
+        "base_xp": 29,
+        "uses": []
+    },
+    {
+        "name": "Eel",
+        "desc": "A long, slippery little fish.",
+        "base_price": 85,
+        "location": [
+            "Stream"
+        ],
+        "season": [
+            "Spring",
+            "Fall"
+        ],
+        "time": [
+            [
+                16,
+                2
+            ]
+        ],
+        "weather": "Rain",
+        "size": {
+            "min": 24,
+            "max": 33
+        },
+        "behavior": "Smooth",
+        "difficulty": 70,
+        "base_xp": 26,
+        "uses": [
+            "Night Fishing Bundle",
+            "Fried Eel",
+            "Spicy Eel"
+        ]
+    },
+    {
+        "name": "Flounder",
+        "desc": "It lives on the bottom, so both eyes are on top of its head.",
+        "base_price": 100,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 81
+        },
+        "behavior": "Sinker",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": [
+            "Seafoam Pudding"
+        ]
+    },
+    {
+        "name": "Ghostfish",
+        "desc": "A pale, blind fish found in underground lakes.",
+        "base_price": 45,
+        "location": [
+            "Underground Lake"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 4,
+            "max": 17
+        },
+        "behavior": "Mixed",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": [
+            "Specialty Fish Bundle"
+        ]
+    },
+    {
+        "name": "Halibut",
+        "desc": "A flat fish that lives on the ocean floor.",
+        "base_price": 80,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                11
+            ],
+            [
+                19,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 10,
+            "max": 36
+        },
+        "behavior": "Sinker",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": []
+    },
+    {
+        "name": "Herring",
+        "desc": "A common ocean fish.",
+        "base_price": 30,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 10,
+            "max": 34
+        },
+        "behavior": "Dart",
+        "difficulty": 25,
+        "base_xp": 11,
+        "uses": []
+    },
+    {
+        "name": "Ice Pip",
+        "desc": "A rare fish that thrives in extremely cold conditions.",
+        "base_price": 500,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 8,
+            "max": 21
+        },
+        "behavior": "Dart",
+        "difficulty": 85,
+        "base_xp": 31,
+        "uses": []
+    },
+    {
+        "name": "Largemouth Bass",
+        "desc": "A popular fish that lives in lakes.",
+        "base_price": 100,
+        "location": [
+            "Lake"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 7,
+            "max": 9
+        },
+        "behavior": "Mixed",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": [
+            "Lake Fish Bundle",
+            "Quality Fish Bundle",
+            "Crispy Bass",
+            "'Fish Casserole' Quest"
+        ]
+    },
+    {
+        "name": "Lava Eel",
+        "desc": "It can somehow survive in pools of red-hot lava.",
+        "base_price": 700,
+        "location": [
+            "Mines 100F",
+            "Volcano"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 11,
+            "max": 31
+        },
+        "behavior": "Mixed",
+        "difficulty": 90,
+        "base_xp": 33,
+        "uses": [
+            "Master Fisher's Bundle"
+        ]
+    },
+    {
+        "name": "Lingcod",
+        "desc": "A fearsome predator that will eat almost anything it can cram into its mouth.",
+        "base_price": 120,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 31,
+            "max": 33
+        },
+        "behavior": "Mixed",
+        "difficulty": 85,
+        "base_xp": 31,
+        "uses": [
+            "'Catch a Lingcod' Quest"
+        ]
+    },
+    {
+        "name": "Lionfish",
+        "desc": "An aggressive, predatory fish with venomous spines.",
+        "base_price": 100,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 30,
+            "max": 51
+        },
+        "behavior": "Smooth",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": []
+    },
+    {
+        "name": "Midnight Carp",
+        "desc": "This shy fish only feels comfortable at night.",
+        "base_price": 150,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter",
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                22,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 3,
+            "max": 13
+        },
+        "behavior": "Mixed",
+        "difficulty": 55,
+        "base_xp": 21,
+        "uses": [
+            "Seafoam Pudding"
+        ]
+    },
+    {
+        "name": "Octopus",
+        "desc": "A mysterious and intelligent creature.",
+        "base_price": 150,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "time": [
+            [
+                6,
+                13
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 53
+        },
+        "behavior": "Sinker",
+        "difficulty": 95,
+        "base_xp": 34,
+        "uses": [
+            "Master Fisher's Bundle",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "name": "Perch",
+        "desc": "A freshwater fish of the winter.",
+        "base_price": 55,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 49
+        },
+        "behavior": "Dart",
+        "difficulty": 35,
+        "base_xp": 14,
+        "uses": []
+    },
+    {
+        "name": "Pike",
+        "desc": "A freshwater fish that's difficult to catch.",
+        "base_price": 100,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 10,
+            "max": 25
+        },
+        "behavior": "Dart",
+        "difficulty": 60,
+        "base_xp": 23,
+        "uses": []
+    },
+    {
+        "name": "Pufferfish",
+        "desc": "Inflates when threatened.",
+        "base_price": 200,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                12,
+                16
+            ]
+        ],
+        "weather": "Sun",
+        "size": {
+            "min": 15,
+            "max": 61
+        },
+        "behavior": "Floater",
+        "difficulty": 80,
+        "base_xp": 29,
+        "uses": [
+            "Specialty Fish Bundle",
+            "Abigail (loved gift)"
+        ]
+    },
+    {
+        "name": "Rainbow Trout",
+        "desc": "A freshwater trout with colorful markings.",
+        "base_price": 65,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Sun",
+        "size": {
+            "min": 1,
+            "max": 37
+        },
+        "behavior": "Mixed",
+        "difficulty": 45,
+        "base_xp": 18,
+        "uses": [
+            "Trout Soup"
+        ]
+    },
+    {
+        "name": "Red Mullet",
+        "desc": "Long ago these were kept as pets.",
+        "base_price": 75,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 10,
+            "max": 26
+        },
+        "behavior": "Smooth",
+        "difficulty": 55,
+        "base_xp": 21,
+        "uses": []
+    },
+    {
+        "name": "Red Snapper",
+        "desc": "A popular fish with a nice red color.",
+        "base_price": 50,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Rain",
+            "Fall",
+            "Winter with Rain Totem"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Rain",
+        "size": {
+            "min": 8,
+            "max": 23
+        },
+        "behavior": "Mixed",
+        "difficulty": 40,
+        "base_xp": 16,
+        "uses": [
+            "Ocean Fish Bundle"
+        ]
+    },
+    {
+        "name": "Salmon",
+        "desc": "Swims upstream to lay its eggs.",
+        "base_price": 75,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Fall"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 8,
+            "max": 26
+        },
+        "behavior": "Mixed",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": [
+            "Salmon Dinner"
+        ]
+    },
+    {
+        "name": "Sandfish",
+        "desc": "It tries to hide using camouflage.",
+        "base_price": 75,
+        "location": [
+            "Desert"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 24,
+            "max": 66
+        },
+        "behavior": "Mixed",
+        "difficulty": 65,
+        "base_xp": 24,
+        "uses": [
+            "Specialty Fish Bundle",
+            "Penny (loved gift)"
+        ]
+    },
+    {
+        "name": "Sardine",
+        "desc": "A common ocean fish.",
+        "base_price": 40,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 8,
+            "max": 25
+        },
+        "behavior": "Dart",
+        "difficulty": 30,
+        "base_xp": 13,
+        "uses": [
+            "Ocean Fish Bundle",
+            "Dish O' The Sea"
+        ]
+    },
+    {
+        "name": "Scorpion Carp",
+        "desc": "It's like a regular carp but with a sharp stinger.",
+        "base_price": 150,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 1,
+            "max": 13
+        },
+        "behavior": "Dart",
+        "difficulty": 90,
+        "base_xp": 33,
+        "uses": [
+            "Master Fisher's Bundle"
+        ]
+    },
+    {
+        "name": "Sea Cucumber",
+        "desc": "A slippery, slimy creature found on the ocean floor.",
+        "base_price": 75,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 33
+        },
+        "behavior": "Sinker",
+        "difficulty": 40,
+        "base_xp": 16,
+        "uses": [
+            "Lucky Lunch",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "name": "Shad",
+        "desc": "Lives in a school at sea, but returns to the rivers to spawn.",
+        "base_price": 60,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Rain",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                9,
+                2
+            ]
+        ],
+        "weather": "Rain",
+        "size": {
+            "min": 3,
+            "max": 21
+        },
+        "behavior": "Smooth",
+        "difficulty": 45,
+        "base_xp": 18,
+        "uses": [
+            "River Fish Bundle",
+            "Quality Fish Bundle"
+        ]
+    },
+    {
+        "name": "Slimejack",
+        "desc": "He's coated in a very thick layer of slime. He keeps slipping out of your hands!",
+        "base_price": 100,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 20,
+            "max": 49
+        },
+        "behavior": "Dart",
+        "difficulty": 55,
+        "base_xp": 21,
+        "uses": []
+    },
+    {
+        "name": "Smallmouth Bass",
+        "desc": "A freshwater fish that is very sensitive to pollution.",
+        "base_price": 50,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Fall"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 8,
+            "max": 26
+        },
+        "behavior": "Mixed",
+        "difficulty": 28,
+        "base_xp": 12,
+        "uses": []
+    },
+    {
+        "name": "Squid",
+        "desc": "A deep sea creature that can grow to enormous size.",
+        "base_price": 80,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                18,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 25
+        },
+        "behavior": "Sinker",
+        "difficulty": 75,
+        "base_xp": 28,
+        "uses": [
+            "Fried Calamari",
+            "'Catch a Squid' Quest"
+        ]
+    },
+    {
+        "name": "Stingray",
+        "desc": "Despite having a toxic stinger, these fish are shy and prefer to avoid humans.",
+        "base_price": 180,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 49
+        },
+        "behavior": "Sinker",
+        "difficulty": 80,
+        "base_xp": 29,
+        "uses": []
+    },
+    {
+        "name": "Stonefish",
+        "desc": "A bizarre fish that's shaped like a brick.",
+        "base_price": 300,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 18,
+            "max": 61
+        },
+        "behavior": "Sinker",
+        "difficulty": 65,
+        "base_xp": 24,
+        "uses": []
+    },
+    {
+        "name": "Sturgeon",
+        "desc": "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+        "base_price": 200,
+        "location": [
+            "Lake"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 14,
+            "max": 16
+        },
+        "behavior": "Mixed",
+        "difficulty": 78,
+        "base_xp": 29,
+        "uses": [
+            "Lake Fish Bundle",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "name": "Sunfish",
+        "desc": "A common river fish.",
+        "base_price": 30,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 61
+        },
+        "behavior": "Mixed",
+        "difficulty": 30,
+        "base_xp": 13,
+        "uses": [
+            "River Fish Bundle",
+            "Baked Fish"
+        ]
+    },
+    {
+        "name": "Super Cucumber",
+        "desc": "A rare, purple variety of sea cucumber.",
+        "base_price": 250,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Fall",
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                18,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 5,
+            "max": 16
+        },
+        "behavior": "Sinker",
+        "difficulty": 80,
+        "base_xp": 29,
+        "uses": [
+            "Wizard (loved gift)"
+        ]
+    },
+    {
+        "name": "Tiger Trout",
+        "desc": "A rare hybrid trout that cannot bear offspring of its own.",
+        "base_price": 150,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 37
+        },
+        "behavior": "Dart",
+        "difficulty": 60,
+        "base_xp": 23,
+        "uses": [
+            "River Fish Bundle"
+        ]
+    },
+    {
+        "name": "Tilapia",
+        "desc": "A primarily vegetarian fish that prefers warm water.",
+        "base_price": 75,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Fall",
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                6,
+                14
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 10,
+            "max": 21
+        },
+        "behavior": "Mixed",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": [
+            "Ocean Fish Bundle"
+        ]
+    },
+    {
+        "name": "Tuna",
+        "desc": "A large fish that lives in the ocean.",
+        "base_price": 100,
+        "location": [
+            "Ocean"
+        ],
+        "season": [
+            "Winter",
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "time": [
+            [
+                6,
+                19
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 11,
+            "max": 31
+        },
+        "behavior": "Smooth",
+        "difficulty": 70,
+        "base_xp": 26,
+        "uses": [
+            "Ocean Fish Bundle",
+            "Quality Fish Bundle",
+            "Fish Taco"
+        ]
+    },
+    {
+        "name": "Void Salmon",
+        "desc": "A salmon, twisted by void energy. The fresh meat is jet black, but rapidly turns pink when exposed to air.",
+        "base_price": 150,
+        "location": [
+            "Witch's Swamp"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 12,
+            "max": 61
+        },
+        "behavior": "Mixed",
+        "difficulty": 80,
+        "base_xp": 29,
+        "uses": [
+            "The Missing Bundle"
+        ]
+    },
+    {
+        "name": "Walleye",
+        "desc": "A freshwater fish caught at night.",
+        "base_price": 105,
+        "location": [
+            "River"
+        ],
+        "season": [
+            "Rain",
+            "Winter with Rain Totem"
+        ],
+        "time": [
+            [
+                12,
+                2
+            ]
+        ],
+        "weather": "Rain",
+        "size": {
+            "min": 24,
+            "max": 66
+        },
+        "behavior": "Smooth",
+        "difficulty": 45,
+        "base_xp": 18,
+        "uses": [
+            "Night Fishing Bundle",
+            "Quality Fish Bundle"
+        ]
+    },
+    {
+        "name": "Woodskip",
+        "desc": "A very sensitive fish that can only live in pools deep in the forest.",
+        "base_price": 75,
+        "location": [
+            "Forest"
+        ],
+        "season": [
+            "Summer",
+            "Fall",
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 10,
+            "max": 41
+        },
+        "behavior": "Mixed",
+        "difficulty": 50,
+        "base_xp": 19,
+        "uses": [
+            "Specialty Fish Bundle"
+        ]
+    },
+    {
+        "name": "Midnight Squid",
+        "desc": "A strange and mysterious denizen of the ocean's twilight depths.",
+        "base_price": 100,
+        "location": [
+            "Submarine"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 11,
+            "max": 31
+        },
+        "behavior": "Sinker",
+        "difficulty": 55,
+        "base_xp": 21,
+        "uses": []
+    },
+    {
+        "name": "Spook Fish",
+        "desc": "The huge eyes can detect the faint silhouettes of prey.",
+        "base_price": 220,
+        "location": [
+            "Submarine"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 8,
+            "max": 26
+        },
+        "behavior": "Dart",
+        "difficulty": 60,
+        "base_xp": 23,
+        "uses": []
+    },
+    {
+        "name": "Blobfish",
+        "desc": "This odd creature floats above the ocean floor, consuming any edible material in its path.",
+        "base_price": 500,
+        "location": [
+            "Submarine"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "time": [
+            [
+                6,
+                2
+            ]
+        ],
+        "weather": "Any",
+        "size": {
+            "min": 8,
+            "max": 26
+        },
+        "behavior": "Floater",
+        "difficulty": 75,
+        "base_xp": 28,
+        "uses": [
+            "Master Fisher's Bundle"
+        ]
+    }
+]
